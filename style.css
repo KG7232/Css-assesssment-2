@@ -1,0 +1,99 @@
+.hotel{
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqJqXfa3HB_8M6rOM53pEto97LUkqjeY_o0Q&usqp=CAU);
+background-size:100% ;
+}
+
+.one, .two, .three{
+display: inline-block;
+font-style: italic;
+color: white;
+background-color: black;
+border: 6px solid red;
+border-radius: 30px;
+}
+.one{
+width: 250px;
+text-align: center;
+padding: 40px 15px 15px 40px;
+}
+.two{
+    width: 350px;
+padding:10px;
+margin-left: -100px;
+text-align: center;
+}
+.three{
+    position: relative;
+    top: -70px;
+margin-left: 800px;
+margin-top: 0;
+
+
+padding: 30px;
+width: 250px;
+text-align: center;
+}
+.four{
+    position: relative;
+    top: 100px;
+    left: 700px;
+border: 5px dashed red;
+background-color: white;
+text-align: center;
+color: tomato;
+padding: 10px;
+width: 30%;
+
+}
+.five{
+color: tomato;
+text-align: center;
+
+}
+
+.five input{
+    text-align: center;
+}
+.six{
+    background-color: aquamarine;
+    padding: 40px;
+    display: inline-block;
+    font-style: italic;
+    text-align: center;
+    border-radius: 50%;
+    border-width: 2px;
+    border-style: solid;
+    height: 220px;
+    width: 220px;
+    position: relative;
+    top: -400px;
+    left: 100px;
+}
+.seven{
+display: flex;
+background-color: aquamarine;
+/* width: 100%;
+height: 80vh; */
+padding: 2rem;
+text-align: center;
+flex-wrap: wrap;
+justify-content: space-between;
+}
+
+.eight{
+background-color: deepskyblue;
+margin: 15px;
+padding: 0px 4rem 7rem;
+border-radius: 15px;
+height: 100px;
+width: 200px;
+
+}
+.menu{  
+display: inline-block;
+background-color: black;
+color: white;
+border: 6px solid red;
+padding: 15px;
+width: 200px;
+border-radius: 15px;}
